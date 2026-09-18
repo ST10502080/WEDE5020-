@@ -1,23 +1,27 @@
-<!DOCTYPE html>
+<Heritagebeadwork>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+     <link rel="stylesheet" href="css_assets/myfirststyles.css">
+     <title>Heritagebeadwork</title>
 </head>
 <body>
+    
+    <header style="background-color:rgba(230, 176, 223, 0.24);"><h1>Heritagebeadwork</h1>
     <nav class="nav-links" aria-label="Main navigation">
         <a href="index.html">🏠 Homepage</a>
-        <a href="products.html">🖼️ Products</a>
+        <a href="products.html">🖼️Products</a>
         <a href="contact.html">✉️ Contact</a>
         <a href="about.html">👤 About</a>
         <a href="pricing.html">$Pricing</a>
         <a href="enquiry.html">Enquiry</a>
     </nav>   
-    
-     <h1 style="text-align:center; color:#333;">🏠Badidise beadwork</h1>
-    <img src="img/image 1.png.jfif"width="350" height="200">
+    </header>
+    <h1 style="text-align:left; color:#000000;">🏠Badidise beadwork</h1>
+    <img src="img/image 1.png.jpeg" class="responsive-image">
     <h2>Enquiry </h2>
+    <!--the form is to indicate that we created a format and the label its a field that is named for a specific type of name that is requireed to store it-->
     <form>
        <label for="name">Name:</label><br>
        <input type="text" id="name"name="name" required placeholder="Your Name"><br>
@@ -26,9 +30,28 @@
        <label for="email">Email Address:</label><br>
        <input type="email" id="email"name="email"required placeholder="name@example.com"><br>
        <label for="phonenumber">Phonenumber:</label><br>
-       <input type="text" id="phonenumber"phonenumber="phonenumber" required placeholder="Phonenumber"><br><br>6
+       <input type="text" id="phonenumber"phonenumber="phonenumber" required placeholder="Phonenumber"><br><br>
+       <!-- its to indicate the submission of the form-->
         <button type="submit">Send Email</button><br>
     </form>
     <p>press submit on ur completetion</p>
+    <br><br>
+    <footer>
+         <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html">🏠 Homepage</a>
+        <a href="products.html">🖼️Products</a>
+        <a href="contact.html">✉️ Contact</a>
+        <a href="about.html">👤 About</a>
+        <a href="pricing.html">$Pricing</a>
+        <a href="enquiry.html">Enquiry</a>
+    </nav>   
+     <!--this is one of many ways to display contact info-->
+        <div class="contact-info">
+            <p><strong>Email:</strong> info@example.com</p>
+            <p><strong>Phone:</strong> (+27) 834-663-730</p>
+            <p><strong>Location:</strong> South Africa</p>
+            <p><strong>Business Hours:</strong> Mon-Fri 9AM - 5PM</p>
+        </div>
+    </footer>
 </body>
 </html>
