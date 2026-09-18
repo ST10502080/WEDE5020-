@@ -50,6 +50,6 @@ Albion Gould. Available at: https://albiongould.com/a-brief-history-of-beading-i
 SAHRA. Available at: https://www.sahra.org.za/Wordpress/wp-content/uploads/2020/01/SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf (Accessed: 4 August 2026).
 
 changelog
-since i only had refrences on my read me i had to add a lot of stuff and changes i only Applied them on word as for the codes i did did not have a footer so i added it 
+since i only had refrences on my read me i had to add a lot of stuff and changes i only Applied them on word as for the codes i did not have a footer so i added it 
 
 Timeline and milestones
