@@ -40,19 +40,16 @@ Phase 2: Design & Wireframing	28 July – 5 Aug	Design sign-off	5 August
 Phase 3: Development & Build	6 – 15 Aug	Full site build	15 August
 Phase 4: Testing & QA	16 – 19 Aug	Bug fixes complete	19 August
 Phase 5: Final Review & Submission	20 – 24 Aug	Final submission	24 August
-Part 1 Details
-This submission covers Part 1 of the project, which includes:
-
-Research and planning
 
 Sitemap and content structure
+<img width="831" height="438" alt="image" src="https://github.com/user-attachments/assets/c7b2fa5c-26b6-4d3b-9197-2a1ce73ff1b2" />
 
-Wireframes for all main pages (Home, Products, About, Contact, Enquiry)
+References
+Albion Gould. Available at: https://albiongould.com/a-brief-history-of-beading-in-south-africa/ (Accessed: 4 August 2026).
 
-Proposed features and functionality
+SAHRA. Available at: https://www.sahra.org.za/Wordpress/wp-content/uploads/2020/01/SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf (Accessed: 4 August 2026).
 
-Design aesthetic guidelines
-
-Cost analysis
+changelog
+since i only had refrences on my read me i had to add a lot of stuff and changes i only Applied them on word as for the codes i did did not have a footer so i added it 
 
 Timeline and milestones
