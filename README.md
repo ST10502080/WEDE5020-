@@ -1,8 +1,58 @@
-#Project Title - Heritagebeadwork
-##Student Information
-###St10502080 Az'ulwazi
-##References
-•	albiongould
-•	Available at: https://albiongould.com/a-brief-history-of-beading-in-south-africa/ (Accessed: 4 August 2026).
-•	SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf..6+
-•	Available at: https://www.sahra.org.za/Wordpress/wp-content/uploads/2020/01/SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf (Accessed: 4 August 2026).
+# Heritage Beadwork
+## Student Information
+### Subject Name: Web Development
+### Subject Code: DISD0601
+### Student Number: ST10502080
+### Group: 1
+Project Overview
+Heritage Beadwork is a website dedicated to the preservation and promotion of South African beadwork traditions. Beading is an age-old craft with deep cultural significance in many South African cultures, including the Zulu, Xhosa, Ndebele, and San peoples. Historically, beadwork has been used for decor, storytelling, and communication, with beaded objects carrying symbolic meanings related to status, marriage, initiation, and spiritual beliefs.
+
+This project aims to create a digital platform that showcases the rich heritage of South African beadwork, educates visitors about its history and techniques, and fosters a community of enthusiasts, designers, artists, and collectors. The website will serve as both a cultural archive and a vibrant gallery, connecting people to the artistry and stories behind the beads.
+
+Website Goals and Objectives
+Preserve and promote the craft: Educate visitors about beadwork traditions, techniques, and cultural significance.
+
+Foster community: Provide a space where beadwork enthusiasts can connect, share, and learn from one another.
+
+Track and refine: Use analytics to understand what content resonates and adjust accordingly.
+
+Improve discoverability: Optimize pages so beadwork-related searches lead visitors to the site.
+
+Key Features and Functionality
+Responsive Design: Website adapts seamlessly to desktop, tablet, and mobile screens.
+
+Homepage Hero Banner: Full-width image with headline and call-to-action buttons.
+
+Navigation Menu: Sticky top navigation with links to Home, Products, About, Contact, and Enquiry.
+
+Footer: Contains quick links, social media icons, contact info, and copyright.
+
+Gallery & Featured Pieces: Visual showcase of beadwork with titles and images.
+
+Contact & Enquiry Forms: Allows visitors to get in touch or make custom requests.
+
+About Page: Tells the story behind the beads and the passion for craftsmanship.
+
+Timeline and Milestones
+Phase	Duration	Key Milestone	Deadline
+Phase 1: Research & Planning	20 – 27 July	Sitemap & content structure	27 July
+Phase 2: Design & Wireframing	28 July – 5 Aug	Design sign-off	5 August
+Phase 3: Development & Build	6 – 15 Aug	Full site build	15 August
+Phase 4: Testing & QA	16 – 19 Aug	Bug fixes complete	19 August
+Phase 5: Final Review & Submission	20 – 24 Aug	Final submission	24 August
+Part 1 Details
+This submission covers Part 1 of the project, which includes:
+
+Research and planning
+
+Sitemap and content structure
+
+Wireframes for all main pages (Home, Products, About, Contact, Enquiry)
+
+Proposed features and functionality
+
+Design aesthetic guidelines
+
+Cost analysis
+
+Timeline and milestones
