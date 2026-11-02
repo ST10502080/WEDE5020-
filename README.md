@@ -82,27 +82,4 @@ Gallery grid uses repeat(auto-fill, minmax(220px, 1fr)) with aspect-ratio: 1 / 1
 
 Two responsive breakpoints: 760px (stack the About story blocks) and 480px (mobile nav, two-column gallery, single-column pricing).
 
-References
-Albion Gould. Available at: https://albiongould.com/a-brief-history-of-beading-in-south-africa/ (Accessed: 4 August 2026).
-
-SAHRA. Available at: https://www.sahra.org.za/Wordpress/wp-content/uploads/2020/01/SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf (Accessed: 4 August 2026).
-
-Changelog
-Six-page build: Expanded from the initial single-page concept to a full site — index.html, products.html, about.html, pricing.html, contact.html, and enquiry.html.
-
-Header & footer added everywhere: Originally the README only mentioned references; the code now has a sticky gradient header (logo + nav) and a full footer (quick links, contact info, copyright) on every page. This was one of the main things missing from the earlier code and is now consistent site-wide.
-
-Navigation: Sticky top nav with six links; active page highlighted via JS; hamburger menu added for mobile.
-
-Product gallery: Built as a responsive grid with captions; added a lightbox with arrows, counter, and keyboard controls.
-
-Pricing page: Added price cards for each category plus a disclaimer note about final pricing and delivery fees.
-
-About page: Added two alternating image/text "story" blocks and a "Why Customers Love Us" list.
-
-Forms: Added client-side validation and success/error messages to both the Contact and Enquiry forms.
-
-UX polish: Scroll-reveal animations, back-to-top button, and automatic footer year.
-
-Assets: Added launch.json (Chrome launch config on port 8080) and settings.json (Live Server on port 5501) for local development.
 
