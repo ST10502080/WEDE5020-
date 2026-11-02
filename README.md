@@ -53,3 +53,56 @@ changelog
 since i only had refrences on my read me i had to add a lot of stuff and changes i only Applied them on word as for the codes i did not have a footer so i added it 
 
 Timeline and milestones
+initMobileNav() — injects and controls the hamburger menu; closes on link click or Esc.
+
+initActiveNavLink() — highlights the link matching the current page.
+
+initSmoothScroll() — smooth scrolling for in-page anchors.
+
+initContactForm() — contact form submission feedback.
+
+initEnquiryForm() — enquiry form validation (name, email, phone).
+
+initImageLightbox() — builds the lightbox with slideshow arrows, captions, counter, and keyboard support.
+
+initScrollReveal() — IntersectionObserver-based fade-in animation.
+
+initBackToTop() — creates and manages the back-to-top button.
+
+setCurrentYear() — appends the current year to the footer.
+
+Styling Notes (css_assets/myfirststyles.css)
+CSS custom properties define the palette: purple (#7b2d8e), dark purple (#5a1f6b), gold (#d4a017), cream background (#faf6f0), and ink text (#2b2233).
+
+Purple-and-gold gradient header and footer tie the brand together.
+
+Cards (feature, price, section, contact) use soft shadows and a gold accent border/top.
+
+Gallery grid uses repeat(auto-fill, minmax(220px, 1fr)) with aspect-ratio: 1 / 1 images.
+
+Two responsive breakpoints: 760px (stack the About story blocks) and 480px (mobile nav, two-column gallery, single-column pricing).
+
+References
+Albion Gould. Available at: https://albiongould.com/a-brief-history-of-beading-in-south-africa/ (Accessed: 4 August 2026).
+
+SAHRA. Available at: https://www.sahra.org.za/Wordpress/wp-content/uploads/2020/01/SAHRA-BOOKLET_The-Specifically-Declared-Broster-Beadwork-Collect.pdf (Accessed: 4 August 2026).
+
+Changelog
+Six-page build: Expanded from the initial single-page concept to a full site — index.html, products.html, about.html, pricing.html, contact.html, and enquiry.html.
+
+Header & footer added everywhere: Originally the README only mentioned references; the code now has a sticky gradient header (logo + nav) and a full footer (quick links, contact info, copyright) on every page. This was one of the main things missing from the earlier code and is now consistent site-wide.
+
+Navigation: Sticky top nav with six links; active page highlighted via JS; hamburger menu added for mobile.
+
+Product gallery: Built as a responsive grid with captions; added a lightbox with arrows, counter, and keyboard controls.
+
+Pricing page: Added price cards for each category plus a disclaimer note about final pricing and delivery fees.
+
+About page: Added two alternating image/text "story" blocks and a "Why Customers Love Us" list.
+
+Forms: Added client-side validation and success/error messages to both the Contact and Enquiry forms.
+
+UX polish: Scroll-reveal animations, back-to-top button, and automatic footer year.
+
+Assets: Added launch.json (Chrome launch config on port 8080) and settings.json (Live Server on port 5501) for local development.
+
