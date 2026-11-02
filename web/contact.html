@@ -1,52 +1,63 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css_assets/myfirststyles.css">
-    <title>Heritagebeadwork</title>
+    <script src="javascript/main.js" defer></script>
+    <!-- Lightbox CSS --> 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+<!-- jQuery --> 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+
+
+
+
+    <title>Heritage Beadwork | Contact</title>
 </head>
 <body>
-     <header style="background-color:rgba(230, 176, 223, 0.24);"><h1>Heritagebeadwork</h1>
-       <nav class="nav-links" aria-label="Main navigation">
-        <a href="index.html">🏠 Homepage</a>
-        <a href="products.html">🖼️ Products</a>
-        <a href="contact.html">✉️ Contact</a>
-       
-        <a href="about.html">👤 About</a>
-        <a href="pricing.html">$ Pricing</a>
-        <a href="enquiry.html">Enquiry</a>
-    </nav>
-     </header>
-    <h1 style="text-align:left; color:#141414;">🏠Badidise beadwork</h1>
-    <img src="img/image 1.png.jpeg" class="responsive-image">
-    <!-- Contact Information -->
+    <header>
+        <h1>Heritage Beadwork</h1>
+        <img src="img/log.jpeg" class="header-logo" alt="Badidise Beadwork logo">
+        <nav class="nav-links" aria-label="Main navigation">
+            <a href="index.html">🏠 Homepage</a>
+            <a href="products.html">🖼️ Products</a>
+            <a href="contact.html">✉️ Contact</a>
+            <a href="about.html">👤 About</a>
+            <a href="pricing.html">$ Pricing</a>
+            <a href="enquiry.html">✉️ Enquiry</a>
+        </nav>
+    </header>
+
+    <h1 style="text-align:center; color:#333;">🏠 Badidise Beadwork</h1>
+
     <div class="contact-container">
         <h1>📧 Contact Us</h1>
-        <!--this is one of many ways to display contact info-->
         <div class="contact-info">
             <p><strong>Email:</strong> info@example.com</p>
             <p><strong>Phone:</strong> (+27) 834-663-730</p>
             <p><strong>Location:</strong> South Africa</p>
-            <p><strong>Business Hours:</strong> Mon-Fri 9AM - 5PM</p>
+            <p><strong>Business Hours:</strong> Mon–Fri 9AM – 5PM</p>
         </div>
+
+        <form novalidate>
+            <label for="c-name">Name:</label>
+            <input type="text" id="c-name" name="name" required placeholder="Your Name">
+
+            <label for="c-email">Email:</label>
+            <input type="email" id="c-email" name="email" required placeholder="name@example.com">
+
+            <label for="c-message">Message:</label>
+            <input type="text" id="c-message" name="message" required placeholder="Your message">
+
+            <button type="submit">Send Message</button>
+        </form>
     </div>
+
     <footer>
-        <br><br>
-         <nav class="nav-links" aria-label="Main navigation">
-        <a href="index.html">🏠 Homepage</a>
-        <a href="products.html">🖼️Products</a>
-        <a href="contact.html">✉️ Contact</a>
-        <a href="about.html">👤 About</a>
-        <a href="pricing.html">$Pricing</a>
-        <a href="enquiry.html">Enquiry</a>
-    </nav>   
-     <!--this is one of many ways to display contact info-->
         <div class="contact-info">
-            <p><strong>Email:</strong> info@example.com</p>
-            <p><strong>Phone:</strong> (+27) 834-663-730</p>
-            <p><strong>Location:</strong> South Africa</p>
-            <p><strong>Business Hours:</strong> Mon-Fri 9AM - 5PM</p>
+            <p><strong>Contact:</strong> info@example.com | (+27) 834-663-730</p>
         </div>
     </footer>
 </body>
